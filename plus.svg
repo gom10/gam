@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #66b35b;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>Ресурс 1</title>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Слой_1-2" data-name="Слой 1">
+      <g>
+        <circle class="cls-1" cx="13.5" cy="13.5" r="13.5"/>
+        <polygon class="cls-2" points="13.28 8.53 14.78 8.53 14.78 12.59 17.97 12.59 17.97 14.47 14.78 14.47 14.78 18.47 12.78 18.47 12.78 14.59 9.03 14.47 9.03 12.66 12.72 12.66 12.78 8.53 13.28 8.53"/>
+      </g>
+    </g>
+  </g>
+</svg>
